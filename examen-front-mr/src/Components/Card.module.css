@@ -1,0 +1,23 @@
+.card{
+    padding: 8px;
+    border-radius: 16px;
+    border-width: 2px;
+    border-color: rgba(104, 101, 101, 0.541);
+    border-style: solid;
+    /*display: flex;
+    flex-wrap: wrap;*/
+    gap: 16px;
+    margin: 20px;
+}
+
+.cardtext{
+    font-size: 14px;
+    padding: 8px;
+    background-color: rgb(82, 184, 184);
+}
+
+.cardtitle{
+    font-size: 14px;
+    padding: 8px;
+    background-color: rgb(120, 120, 218);
+}
